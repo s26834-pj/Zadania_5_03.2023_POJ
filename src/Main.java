@@ -90,7 +90,7 @@ public class Main {
         System.out.println("Podaj bok c: ");
         c = getInt();
         if ((a <= 0) || (b <= 0) || (c <= 0)) {
-            System.out.println("BŁĄD");
+            System.out.println("Błąd");
         } else if ((a + b > c) && (a + c > b) && (b + c > a)) {
             System.out.println("TAK ");
         } else {
@@ -182,7 +182,7 @@ public class Main {
         System.out.println("Podaj liczbe elementów drugiej tablicy (nie wieksza niz 7): ");
         m = scanner.nextInt();
         if ((n <= 0) || (m <= 0)) {
-            System.out.println("BŁĄD");
+            System.out.println("Błąd");
         } else if (n != m) {
             System.out.println("Tablice mają różne ilości elementów. Nie można obliczyć iloczynu skalarnego");
         } else {
