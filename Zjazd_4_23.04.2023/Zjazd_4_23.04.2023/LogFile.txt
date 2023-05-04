@@ -1,0 +1,3 @@
+Komunikat o zdarzeniu: Alarm wlaczony: Sygnal dzwiekowy Safe 2023-05-04 16:56:41, Zrodlo informacji: OCHRONA Poziom zagrozenia: JEDEN
+Komunikat o zdarzeniu: Alarm wlaczony: Psy wypuszczone Safe 2023-05-04 16:56:41, Zrodlo informacji: WLASCICIEL Poziom zagrozenia: DWA
+Komunikat o zdarzeniu: Alarm wlaczony: Policja przyjechala Safe 2023-05-04 16:56:41, Zrodlo informacji: SASIADKA Poziom zagrozenia: CZTERY
